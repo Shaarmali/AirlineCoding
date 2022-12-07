@@ -1,0 +1,14 @@
+
+.env
+# Default ignored files
+/shelf/
+/workspace.xml
+node_modules/
+!**/src/main/**/target/
+!**/src/test/**/target/
+.idea
+*.iws
+*.iml
+*.ipr
+
+
